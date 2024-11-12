@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 const foods = ['pizza', 'pasta', 'spaghetti', 'ramen', 'eggs benedict', 'dumplings', 'noodles', 'pork bun']
